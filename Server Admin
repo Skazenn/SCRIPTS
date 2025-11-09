@@ -1,15 +1,15 @@
-   -- Lil edited by gObl00x (User: random_hacke6) --
+   -- Lil edited by Johndoe (User: Johndoe) --
            -- Credits to the Creator --
 
--- gObl00x Notification
+-- johndoe Notification
 game:GetService("StarterGui"):SetCore("SendNotification", { 
-	Title = "gOb scripts";
-	Text = "LOL Time to Exploit!";
-	Icon = "rbxthumb://type=Asset&id=126389658690593&w=150&h=150"})
+	Title = "teamjohndoe";
+	Text = "https://discord.gg/4wGpMHdXYa";
+	Icon = "rbxthumb://type=Asset&id=71967665601624&w=150&h=150"})
 Duration = 15;
 
     --//====================================================\\--
-    --||			   CREATED BY SHACKLUSTER
+    --||			   CREATED BY JohndoeOndiscord
     --\\====================================================//--
 
 -- Server Admin
