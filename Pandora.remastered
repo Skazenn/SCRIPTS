@@ -41,7 +41,7 @@ MRANDOM = math.random
 FLOOR = math.floor
  
 --//=================================\\
---|| 	      USEFUL VALUES
+--|| Made by xd39 and johndoe
 --\\=================================//
  
 Animation_Speed = 3
