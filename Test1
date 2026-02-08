@@ -1,0 +1,11 @@
+local Players = game:GetService("Players")
+local Character = game.Players.LocalPlayer.Character
+
+while wait() do
+    if Character then
+        local Humanoid = Character:FindFirstChild("Humanoid")
+        if Humanoid then
+            Humanoid:SetStateEnabled(Enum.HumanoidStateType.Ragdoll, false)
+        end
+    end
+end
