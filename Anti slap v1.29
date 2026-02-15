@@ -24,7 +24,7 @@ mainframe2.BorderColor3 = Color3.fromRGB(255,255,255)
 mainframe2.Size = UDim2.new(.1,0,.05,0)
 mainframe2.Position = UDim2.new(.45,0,.475,0)
 drag(mainframe2)
-mainframe2.Text = "Made By 2AreYouMental110"
+mainframe2.Text = "Made By Skazen"
 mainframe2.TextScaled = true
 mainframe2.TextColor3 = Color3.fromRGB(255,255,255)
 local textbutton = Instance.new("TextButton")
@@ -91,7 +91,7 @@ localplr.CharacterAdded:Connect(dc)
 local textbutton2 = Instance.new("TextButton")
 textbutton2.Position = UDim2.new(0,0,3,0)
 textbutton2.Size = UDim2.new(1,0,2,0)
-textbutton2.Text = "Kill All (requires glove to be ingame)"
+textbutton2.Text = "Kill All (soon)"
 textbutton2.TextScaled = true
 textbutton2.TextColor3 = Color3.fromRGB(255,255,255)
 textbutton2.BackgroundColor3 = Color3.fromRGB(50,50,50)
